@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,Playing_Time_MP,Playing_Time_Starts,Playing_Time_Min,Playing_Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty_Kicks_PKatt,Penalty_Kicks_PKA,Penalty_Kicks_PKsv,Penalty_Kicks_PKm,Penalty_Kicks_Save%,Matches
+Bartłomiej Drągowski,pl POL,GK,29-087,14,14,1260,14.0,19,1.36,65,46,70.8,2,8,4,5,35.7,1,0,0,1,,Matches
+Squad Total,,,26.9,14,14,1260,14.0,19,1.36,65,46,70.8,2,8,4,5,35.7,1,0,0,1,,
+Opponent Total,,,27.2,14,14,1260,14.0,20,1.43,59,38,66.1,4,8,2,3,21.4,1,1,0,0,0.0,
