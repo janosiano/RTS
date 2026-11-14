@@ -33,7 +33,7 @@ try:
     else:
         print("Zczytuję kod strony! Przetwarzam...")
 
-        tabele = pd.read_html(io.StringIO(html))
+        tabele = pd.read_html(io.StringIO(html), match="Per 90 Minutes")
 
         print(f"Znaleziono {len(tabele)} tabel na stronie.")
 
